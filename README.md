@@ -1,1 +1,1 @@
-![Alt Text](https://github.com/arsz/dltt/edit/master/l2.gif)
+![](https://github.com/arsz/dltt/blob/master/l2.gif)
