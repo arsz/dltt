@@ -1,5 +1,5 @@
 Setup locally:
-- Configure db: 
+- Configure connectionstring: 
   ../Deloitte/appsettings.json
   "ConnectionStrings": {
       "DeloitteConnection": ""
